@@ -1,1 +1,1 @@
-# studet-form
+# student-form
